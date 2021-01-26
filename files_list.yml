@@ -1,0 +1,7 @@
+files:
+  - name: /tmp/abc1.txt
+    checksum: “2dc4f38a754748fa08a3d06cf2ab88fd” 
+  -	name: /tmp/abc2.txt
+    checksum:  “da39a3eerb6a” 
+  -	name: /tmp/abc3.txt
+    checksum: “da39a3ee5e6b4b0d” 
